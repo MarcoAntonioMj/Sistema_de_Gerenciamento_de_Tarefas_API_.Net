@@ -1,0 +1,54 @@
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\appsettings.json
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Sistema de Gerenciamento de Tarefas.exe
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Sistema de Gerenciamento de Tarefas.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Sistema de Gerenciamento de Tarefas.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Sistema de Gerenciamento de Tarefas.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Sistema de Gerenciamento de Tarefas.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Humanizer.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\Sistema de Gerenciamento de Tarefas.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\Sistema de Gerenciamento de Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\Sistema de Gerenciamento de Tarefas.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\Sistema de Gerenciamento de Tarefas.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\Sistema de Gerenciamento de Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\Sistema de Gerenciamento de Tarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\Sistema de Gerenciamento de Tarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\staticwebassets\msbuild.Sistema de Gerenciamento de Tarefas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\staticwebassets\msbuild.build.Sistema de Gerenciamento de Tarefas.props
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sistema de Gerenciamento de Tarefas.props
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sistema de Gerenciamento de Tarefas.props
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\scopedcss\bundle\Sistema de Gerenciamento de Tarefas.styles.css
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\Sistema de Gerenciamento de Tarefas.csproj.CopyComplete
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\Sistema de Gerenciamento de Tarefas.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\refint\Sistema de Gerenciamento de Tarefas.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\Sistema de Gerenciamento de Tarefas.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\Sistema de Gerenciamento de Tarefas.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\Sistema de Gerenciamento de Tarefas\obj\Debug\net6.0\ref\Sistema de Gerenciamento de Tarefas.dll

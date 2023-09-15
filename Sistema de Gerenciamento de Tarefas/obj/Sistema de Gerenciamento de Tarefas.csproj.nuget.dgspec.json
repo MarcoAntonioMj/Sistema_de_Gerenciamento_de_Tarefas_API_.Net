@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas.csproj": {}
+    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas.csproj": {
+    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas.csproj",
         "projectName": "Sistema de Gerenciamento de Tarefas",
-        "projectPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas.csproj",
+        "projectPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas\\obj\\",
+        "outputPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Sistema_de_Gerenciamento_de_Tarefas_API_.Net\\Sistema de Gerenciamento de Tarefas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"

@@ -1,4 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using Sistema_de_Gerenciamento_de_Tarefas.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+
+var connectionString = builder.Configuration.GetConnectionString("TaskConnection");
+
+builder.Services.AddDbContext<TaskContext>(opts => opts.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
 // Add services to the container.
 

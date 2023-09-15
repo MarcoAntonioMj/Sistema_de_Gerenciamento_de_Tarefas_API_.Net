@@ -4,6 +4,8 @@ namespace Sistema_de_Gerenciamento_de_Tarefas.Modelos;
 
 public class TaskModel
  {
+    [Key]
+    [Required]
     public int Id { get; set; }
 
     [Required(ErrorMessage = "O título da tarefa é obrigatório.")]
