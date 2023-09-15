@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "60BU4NvS+xP9fr+UoeOz/8d+hhAWfh3Dk76COUoSFIqzIdkRXMWqH8a7jxE0K+02J7fthBZDOw23ajB02SwN4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas\\Sistema de Gerenciamento de Tarefas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
