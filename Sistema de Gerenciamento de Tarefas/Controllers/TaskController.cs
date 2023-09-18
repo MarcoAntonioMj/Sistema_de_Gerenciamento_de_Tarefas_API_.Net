@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Sistema_de_Gerenciamento_de_Tarefas.Data;
+using Sistema_de_Gerenciamento_de_Tarefas.Dtos;
 using Sistema_de_Gerenciamento_de_Tarefas.Modelos;
 namespace Sistema_de_Gerenciamento_de_Tarefas.Controllers
 {
@@ -47,6 +48,54 @@ namespace Sistema_de_Gerenciamento_de_Tarefas.Controllers
             }
 
             return Ok(task); // Retorna HTTP 200 com os dados da tarefa
+        }
+
+        [HttpPut("{id}")]
+        public IActionResult UpdateTask(int id, [FromBody] TaskUpdateDTO taskUpdateDTO) 
+        {
+            if (taskUpdateDTO == null) 
+            {
+                return BadRequest("Os dados de atualização da tarefa são inválidos.");
+            }
+
+            if (!ModelState.IsValid) 
+            {
+                return BadRequest(ModelState);
+            }
+
+            var existingTask = _context.TaskItems.Find(id);
+
+            if (existingTask == null)
+            {
+                return NotFound();
+            }
+            // Atualize os campos da tarefa existente com os dados do DTO
+
+            existingTask.Title = taskUpdateDTO.Title;
+            existingTask.Description = taskUpdateDTO.Description;
+            existingTask.DueDate = taskUpdateDTO.DueDate;
+            existingTask.IsCompleted = taskUpdateDTO.IsCompleted;
+
+            _context.SaveChanges();
+
+            return NoContent(); // Retorna HTTP 204 (sem conteúdo) para indicar que a atualização foi bem-sucedida
+
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult DeleteTask(int id)
+        {
+            var task = _context.TaskItems.Find(id);
+
+            if (task == null)
+            {
+                return NotFound(); // Retorna HTTP 404 se a tarefa não for encontrada
+            }
+
+            _context.TaskItems.Remove(task);
+            _context.SaveChanges();
+
+            return NoContent(); // Retorna HTTP 204 (sem conteúdo) para indicar que a exclusão foi bem-sucedida
         }
     }
 }
